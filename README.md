@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-with-clean-html-and-css-TYkT-t-2x)
+- [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-using-clean-html-and-css-I35nX0-Yf)
 - [Live Site URL](https://mohsin316.github.io/Four-card-feature-section/)
 
 ## My process
